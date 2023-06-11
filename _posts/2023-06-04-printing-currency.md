@@ -1,7 +1,7 @@
 ---
 title: Printing Currency
 date: 2023-06-04 12:23:00 +0530
-categories: [Informative, Finance]
+categories: [Finance]
 tags: [info, finance]     # TAG names should always be lowercase
 comments: true
 mermaid: true

@@ -1,7 +1,7 @@
 ---
 title: Money vs Currency
 date: 2023-06-03 13:01:23 +0530
-categories: [Informative, Finance]
+categories: [Finance]
 tags: [info, finance]     # TAG names should always be lowercase
 comments: true
 

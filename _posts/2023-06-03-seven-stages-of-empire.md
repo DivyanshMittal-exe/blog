@@ -1,7 +1,7 @@
 ---
 title: Seven Stages of Empire
 date: 2023-06-03 20:27:00 +0530
-categories: [Informative, Finance]
+categories: [Finance]
 tags: [info, finance]     # TAG names should always be lowercase
 comments: true
 mermaid: true
