@@ -65,7 +65,7 @@ Taxing the people was the easiest way to extract revenue out of the country. Ind
 > There are few kings in Europe richer than the Directors of the English East India Company - Comte de Châtelet, French ambassador to London
 
 
-The tax was usually more than 50% of their income, and as a result most people just gave away their land.
+The tax was usually more than 50% of their income, and as a result, most people just gave away their land.
 
 > Defaulters were confined in cages, and exposed to the burning sun; fathers sold their children to meet the rising rates  -William Durant
 
@@ -73,21 +73,21 @@ Previously other large empires that ruled over the country earned by using the e
  
 > An opulent city lay at my mercy; its richest bankers bid against each other for my smiles; I walked through vaults which were thrown open to me alone, piled on either hand with gold and jewels… When I think of the marvellous riches of that country, and the comparatively small part which I took away, I am astonished at my own moderation. - Robert Clive
 
-The British praised themselves for showing self-restrained and not looting more. History is filled with such instances where the British claimed, India was a sure shot and easy way for prosperity. Millions of Indians were starved to death for their oppulence. The poor Indians could not even purchase bread.
+The British praised themselves for showing self-restraint and not looting more. History is filled with such instances where the British claimed India was a sure shot and an easy way to prosperity. Millions of Indians were starved to death for their opulence. The poor Indians could not even purchase bread.
 
 ### Taking away the diamonds
 
-The Indian diamonds that the 'nabobs' took was sign to the Britain that it was now becoming an Imperial power. In the late 18th century and early 19th century, these diamonds were not hailed as jewels. Instead the were envied and attacked, as they threatened to change the power dynamics in Britain.
+The Indian diamonds that the 'nabobs' took were a sign to Britain that it was now becoming an Imperial power. These diamonds were not hailed as jewels in the late 18th century and early 19th century. Instead, they were envied and attacked, as they threatened to change the power dynamics in Britain.
 
-Traditionally wealth in Britain, was measured in terms of land ownership. Since it was held for a long time, it reflected permanence and hierarchy. With diamonds, and jewels flowing in from India, wealth could now be acquired by colonial enterprise rather than from inheritance.
+Traditionally wealth in Britain was measured in terms of land ownership. Since it was held for a long time, it reflected permanence and hierarchy. With diamonds, and jewels flowing in from India, wealth could now be acquired by the colonial enterprise rather than from inheritance.
 
-Many Britishers were so alarmed by this massive flow of wealth into Britain, that they summoned Clive before Parliament to explain his actions in India and the fortune he had made there.
+Many Britishers were so alarmed by this massive flow of wealth into Britain that they summoned Clive before Parliament to explain his actions in India and the fortune he had made there.
 
-The government tried to assert supremacy and control over the company, but since most of the MPs were also shareholders of the company, they couldn't really do anything.
+The government tried to assert supremacy and control over the company, but since most MPs were also company shareholders, they couldn't do anything.
 
 ### Torture and Extraction
 
-Warren Hastings was one of the most sadistic and rapacious govern general. He accepted bribes, and then went against war with the bribe givers. He tortured and extracted every last bit of revenues from the people. Under his rule, the propensity of British tax collectors against the Bengal women was described in great detail by Burke who tried to impeach Hastings for his cruelties. 
+Warren Hastings was one of the most sadistic and rapacious government generals. He accepted bribes and then went to war with the bribe givers. He tortured and extracted every last bit of revenue from the people. Under his rule, the propensity of British tax collectors against the Bengal women was described in great detail by Burke, who tried to impeach Hastings for his cruelties. 
 
 > They[Bengali Women] were dragged out, naked and exposed to the public view, and scourged before all the people…they[Tax Collectors] put the nipples of the women into the sharp edges of split bamboos and tore them from their bodies - Burke
 
@@ -103,17 +103,18 @@ F. J. Shore, the British administrator in Bengal testifies in the House of Commo
 
 > The fundamental principle of the English has been to make the whole Indian nation subservient, in every possible way, to the interests and benefits of themselves. They have been taxed to the utmost limit; every successive province, as it has fallen into our possession, has been made a field for higher exaction; and it has always been our boast how greatly we have raised the revenue above that which the native rulers were able to extort. - F. J. Shore
 
-In places where they did not rule over directly, they installed rulers, who paid copious amounts of money in exchange of their thrones. The Nizam of Hyderabad for example was charged exprbant amounts in exchange for protection. The charge was so much, he was forced to borrow at 24% interest rate, from a bank established in 1814 by an associate of the Governor General.
+In places where they did not rule over directly, they installed rulers who paid copious amounts of money in exchange for their thrones. The Nizam of Hyderabad, for example, was charged exorbitant quantities in exchange for protection. The charge was so much he was forced to borrow at a 24% interest rate from a bank established in 1814 by an associate of the Governor General.
 
-A handful of agents were given the duty to collect taxes from the countryside. They were not entirely trusted by the British, so increasingly, written code governed the method and quantity of tax collection. While the local leaders collected taxes based on local conditions, and considering any calamities like drought, or even family circumstances like weddings and death, the British left no breathing room.
+A handful of agents were required to collect taxes from the countryside. They were only partially trusted by the British, so increasingly, written code governed the method and quantity of tax collection. While the local leaders collected taxes based on local conditions and considered calamities like drought or family circumstances like weddings and death, the British left no breathing room.
 
 The rules insisted landholders paid a fixed amount of money each month with rigorous punctuality. As a result, it brought dispossession and the collapse of a once-rich region’s wealth.
 
-In 1793,   Governor-General Lord Cornwallis introduced the The Permanent Settlement of Bengal act, under which, revenue was paid based on the amount of land owned, and not by the share of crops produced. If the crop failed, you still had to pay the taxes. On some occasions, the tax, which was based on the potential value of the land, rather than the actual value, exceeded the revenue the land generated.
+In 1793, Governor-General Lord Cornwallis introduced The Permanent Settlement of Bengal Act, under which revenue was paid based on the land owned, not the share of crops produced. If the crop failed, you still had to pay the taxes. On some occasions, the tax, which was based on the potential value of the land rather than the actual value, exceeded the revenue the land generated.
 
-The taxes they collected were of course not even returned back in the form of public goods and services, but were sent off to the British government.
+The taxes they collected were not even returned in the form of public goods and services but were sent off to the British government.
 
-After the first revolt of Independence in 1857, the King of England took over the administration of the empire. It paid the company for this privelege, which was redeemed (both principal and generous rates of interest) by taxing the Indians. We literally paid for our own oppression. The salary of the Secretary of State for India in 1901, paid for by Indian taxes, was equivalent to the average annual income of 90,000 Indians.
+After the first revolt of Independence in 1857, the King of England took over the administration of the empire. It paid the company for this privilege, which was redeemed (principal and generous interest rates) by taxing the Indians. We literally paid for our own oppression. The salary of the Secretary of State for India in 1901, paid for by Indian taxes, was equivalent to the average annual income of 90,000 Indians.
+
 
 > ‘It is impossible to avoid remarking two facts as peculiarly striking, first the richness of the country surveyed, and second, the poverty of its inhabitants… The annual drain of £3,000,000 on British India has amounted in thirty years, at compound interest, to the enormous sum of £723,900,000. So constant and accumulating a drain, even in England, would soon impoverish her. How severe then must be its effects on India when the wage of a labourer is from two pence to three pence a day... - Montgomery Martin, 1835
 
