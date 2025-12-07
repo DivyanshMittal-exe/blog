@@ -24,7 +24,7 @@ Okay, enough scaring you. First let's find out what it actually does. C-Style ca
 ## 1. const_cast
 This alone should send chills down your spine. The very first thing it does is `const_cast`. One wrong move and you are in UB land. Consider the following code:
 
-```
+```cpp
 class A;
 class C: private A {
 }
@@ -50,7 +50,7 @@ Most of the time, you probably want static_cast: converting int to double, upcas
 
 But even here, it does more than a static_cast. It just ignores the access specifiers. For those who have forgotten, access specifiers are `private, protected and public` defining which context is allowed to access which variable/function.
 
-```
+```cpp
 class A {};
 class B : private A {};
 ```
@@ -62,7 +62,7 @@ This is the truly dangerous part. It’s probably not what you intended when you
 
 Hey, these bits here, you think are A.... No, they are B. Treat them as B, it's alright. And it is very suscptible to introduce subtle bugs. Consider the following case
 
-```
+```cpp
 class A{int a;};
 class B{int b;};
 class C: public A, public B{int c;};
