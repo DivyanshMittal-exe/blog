@@ -45,7 +45,7 @@ The only proper use for const_cast is when you must interact with APIs beyond yo
 
 > Modifying a const object is UB, and C-Style cast make it very easy to cast away constness
 
-##2. static_cast & static_cast + const_cast
+## 2. static_cast & static_cast + const_cast
 Most of the time, you probably want static_cast: converting int to double, upcasting objects, etc.
 
 But even here, it does more than a static_cast. It just ignores the access specifiers. For those who have forgotten, access specifiers are `private, protected and public` defining which context is allowed to access which variable/function.
@@ -57,7 +57,7 @@ class B : private A {};
 
 If you try `static_cast<A>(b)` on an object of type B. It will fail. because A is private, and it should not have access to A, in this scope. But... C-Style cast does not care. It is all too powerful. It's magic beyond us mere mortals.
 
-##3. reinterpret_cast
+## 3. reinterpret_cast
 This is the truly dangerous part. It’s probably not what you intended when you wrote a C-style cast, but the compiler will happily reinterpret memory for you.
 
 Hey, these bits here, you think are A.... No, they are B. Treat them as B, it's alright. And it is very suscptible to introduce subtle bugs. Consider the following case
