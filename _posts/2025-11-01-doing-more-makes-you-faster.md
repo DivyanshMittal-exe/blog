@@ -1,6 +1,6 @@
 ---
 title: Doing more makes you faster
-date: 2023-11-01 22:15:00 +0530
+date: 2025-11-01 22:15:00 +0530
 categories: [C++, Coding, Optimisation]
 tags: [c++, coding, optimisation]     # TAG names should always be lowercase
 comments: true

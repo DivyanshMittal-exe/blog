@@ -1,6 +1,6 @@
 ---
 title: The Unforgivable Cast
-date: 2023-11-15 22:32:00 +0530
+date: 2025-11-15 22:32:00 +0530
 categories: [C++, Coding ]
 tags: [c++, coding]     # TAG names should always be lowercase
 comments: true
